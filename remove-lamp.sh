@@ -12,7 +12,8 @@ sudo apt-get autoremove
 whereis apache2
 sudo rm -rf /etc/apache2
 
-# This will remove PHP version. Type your php version before run below command. I am using php 8.0.x change yours...
+# This will remove PHP version. 
+# Type your php version before run below command. I am using php 8.0.x change yours...
 
 php --version
 sudo apt-get purge `dpkg -l | grep php8.0| awk '{print $2}' |tr "\n" " "`
