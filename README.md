@@ -15,6 +15,10 @@ https://github.com/atorresbr/completely-uninstall-lamp-on-ubuntu.git
 && sudo ./remove-lamp.sh
 ```
 
+![alt text](https://github.com/atorresbr/completely-uninstall-lamp-on-ubuntu/blob/main/img/remove.gif)
 
+❤️‍🔥 Cheers ! 🥂🍺🍻
+
+😘 made with love for torres digital on Brazil !, the Country of Caramelo Dog 🦮 <3 
 
 
