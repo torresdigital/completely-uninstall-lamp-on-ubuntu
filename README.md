@@ -12,7 +12,7 @@ just use this command, copy and past on you terminal //  (( copie e cole o coman
 git clone 
 https://github.com/atorresbr/completely-uninstall-lamp-on-ubuntu.git 
 && cd completely-uninstall-lamp-on-ubuntu
-&& chmod +x
+&& chmod +x remove-lamp.sh
 && sudo ./remove-lamp.sh
 ```
 
