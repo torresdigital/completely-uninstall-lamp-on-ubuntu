@@ -17,7 +17,11 @@ sudo rm -rf /etc/apache2
 
 php --version
 sudo apt-get purge `dpkg -l | grep php8.0| awk '{print $2}' |tr "\n" " "`
-sudo apt-get purge php8.*
+sudo apt-get purge php8.* -y
+sudo apt-get purge `dpkg -l | grep php7.0| awk '{print $2}' |tr "\n" " "`
+sudo apt-get purge php7.* -y
+sudo apt-get purge `dpkg -l | grep php5.0| awk '{print $2}' |tr "\n" " "`
+sudo apt-get purge php5.* -y
 sudo apt-get autoremove --purge
 whereis php
 sudo rm -rf /etc/php
