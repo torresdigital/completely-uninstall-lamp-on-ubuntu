@@ -21,5 +21,3 @@ sudo ./remove-lamp.sh
 ❤️‍🔥 Cheers ! 🥂🍺🍻 
 
 😘 made with love for torres digital on Brazil !, the Country of Caramelo Dog 🦮 ✊🥰😍🤩
-
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/y640pZQVCmI?si=xGL95aAyIwsEHrFj "SÓ TOCA MANDELÃO !")
