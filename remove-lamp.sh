@@ -13,8 +13,6 @@ whereis apache2
 sudo rm -rf /etc/apache2
 
 # This will remove PHP version. 
-# Type your php version before run below command. I am using php 8.0.x change yours...
-
 php --version
 sudo apt-get purge `dpkg -l | grep php8.0| awk '{print $2}' |tr "\n" " "`
 sudo apt-get purge php8.* -y
@@ -29,7 +27,7 @@ sudo apt update -y
 sudo apt upgrade -y
 php --version
 
-# This will remove MYSql
+# This will remove MySql
 sudo service mysql stop
 sudo apt-get remove --purge *mysql\*
 sudo apt-get remove --purge mysql-server mysql-client mysql-common -y
