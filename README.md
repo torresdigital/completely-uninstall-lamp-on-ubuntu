@@ -1,5 +1,5 @@
 # Completely Uninstall LAMP on Ubuntu
-  Remove LAMP is a completely Script uninstall LAMP on Ubuntu
+  🐣 Remove LAMP is a completely Script uninstall LAMP on Ubuntu
 
 ❇️ A few days ago I had detected excessive computer consumption, so when I went to investigate the causes with the ``` htop ``` command,<br>
 I discovered that MySql was creating the problem.
@@ -8,7 +8,7 @@ I discovered that MySql was creating the problem.
 
 ✅ Use web servers with the Ubuntu server version. Avoid doing with the Desktop version.
 
-####   Current Ubuntu server version: https://ubuntu.com/download/server
+#### Current Ubuntu server version: https://ubuntu.com/download/server
 
 ![alt text](https://github.com/atorresbr/completely-uninstall-lamp-on-ubuntu/blob/main/img/completely-uninstall-lamp-on-ubuntu.jpg)
 
