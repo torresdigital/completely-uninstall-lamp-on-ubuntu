@@ -15,7 +15,8 @@ I discovered that MySql was creating the problem.
 ## How to use (( como usar )) 
 
 ### 1 - Git / Download 
-just use this command, copy and paste on your terminal //  (( copie e cole o comando abaixo no seu terminal ))
+just use this command, copy and paste on your terminal. <br> 
+(( copie e cole o comando abaixo no seu terminal, clique nos dois pequenos quadrados na direita para copiar todo o comnando ))
 
 ```
 git clone https://github.com/atorresbr/completely-uninstall-lamp-on-ubuntu.git &&
