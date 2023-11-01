@@ -5,9 +5,9 @@
 
 🟢 So I decided to share this script to once and for all remove the entire web server environment from your Desktop machine.
 
-✅ Use web servers with the Ubuntu server version. Avoid doing with the Desktop version.
+✅ To avoid any LAMP problems with your Ubuntu, creat web servers with the Ubuntu server. Avoid creating web servers with the Desktop version.
 
-#### Current Ubuntu server version: https://ubuntu.com/download/server
+####  Current Ubuntu server version: https://ubuntu.com/download/server
 
 ![alt text](https://github.com/atorresbr/completely-uninstall-lamp-on-ubuntu/blob/main/img/completely-uninstall-lamp-on-ubuntu.jpg)
 
