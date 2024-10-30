@@ -34,7 +34,7 @@ sudo apt-get remove --purge mysql-server mysql-client mysql-common -y
 sudo rm -rf /etc/mysql
 sudo apt-get autoremove
 sudo apt-get autoclean
-
+sudo apt-get moo
 sudo reboot
 
 
